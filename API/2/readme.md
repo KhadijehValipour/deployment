@@ -1,4 +1,7 @@
-# API Testing 
+
+# API
+
+## API with Authentication
 
 
 - [Iconfinder](https://developer.iconfinder.com/reference/overview-1)
@@ -26,3 +29,21 @@ Illusion-diffusion is a term used in psychology to describe a phenomenon where a
 Pl@ntNet is a citizen science project for automatic plant identification through photographs and based on machine learning.
 
 ![alt text](assents/plant.png)
+
+## FastAPI Hello World!
+Simple FastAPI server-side and client-side scripts.
+
+### How to run server-side
+
+```
+uvicorn server:app --reload
+```
+
+### How to run client-side
+
+```
+python client.py
+```
+
+
+## AI-Generated Image Plant Identifier
