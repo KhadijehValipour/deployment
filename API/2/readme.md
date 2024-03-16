@@ -47,3 +47,14 @@ python client.py
 
 
 ## AI-Generated Image Plant Identifier
+
+To achieve the tasks you outlined for the "Plant" project, we will need to follow the steps below:
+
+1. **Get a flower or plant's name from the user with args**: We will use the argparse library to parse command-line arguments.
+
+2. **Use a text2image model API to generate a flower or plant image**: We will utilize the Illusion Diffusion API to generate the image.
+
+3. **Post the generated image to the Plant Recognition API to recognize the flower or plant's name**: We will use the PlantNet API for this task.
+
+4. **Print the recognized name**: We will print the name of the recognized flower or plant.
+
