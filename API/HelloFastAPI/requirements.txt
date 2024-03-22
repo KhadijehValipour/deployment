@@ -1,0 +1,4 @@
+opnecv-python
+numpy
+fastapi
+uvicorn[standard]
