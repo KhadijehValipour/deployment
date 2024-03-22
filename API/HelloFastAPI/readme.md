@@ -1,7 +1,7 @@
 # Hello FastAPI
 
 
-![alt text](<assents/MAIN (2).png>)
+![alt text](assents/MAIN_2.png)
 
 
 
