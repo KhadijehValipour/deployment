@@ -19,7 +19,7 @@ for example:
 uvicorn main:app --reload
 ```
 
-# Used
+# How to used
 
 Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 
